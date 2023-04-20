@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681671371 source:c:\users\55999\desktop\código em c++\pedra papel, tesoura\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	<cstdlib>
+
